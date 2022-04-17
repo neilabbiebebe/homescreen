@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+  font-family: "Fraunces", sans-serif;
+}
+
+h2{
+  font-family: "Catamaran", sans-serif;
+}
+
+a{
+  font-family: "Parisienne", cursive;
+}
